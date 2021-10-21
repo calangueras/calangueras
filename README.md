@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calangueras / Oi, Eu sou o @calangueras
 - 👀 Eu sou estudante de analise e desenvolvimento de sistemas
-- 🌱 Sou formado em Gestao da Tecnologia da Informação, também pos graduado em gestao da tecnologia da informação, e pos em LGPD.
+- 🌱 Sou formado em Gestao da Tecnologia da Informação, também pos graduado em gestao da tecnologia da informação, e pos em LGPD. Atualmente estou fazendo minha segunda graduação Analise e Desenvolvimento de Sistemas pela FATEC Botucatu.
 - 💞️ Estou sempre estudando, e transformando a teoria em pratica.
 - 📫 @calagueras
 
